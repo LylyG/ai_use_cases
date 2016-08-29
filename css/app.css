@@ -19,9 +19,18 @@ body {
 }
 
 .img-container p {
-  padding: 5px;
+  padding: 10px;
 }
 
 .img-container h5 {
-  padding: 5px;
+  padding: 10px;
 }
+
+.img-container a {
+  background-color: transparent;
+  color: white;
+}
+
+.img-container a:active,
+.img-container a:hover {
+  outline: 0; }
