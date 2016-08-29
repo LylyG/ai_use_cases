@@ -119,7 +119,7 @@ dfn {
    * contexts in Firefox 4+, Safari, and Chrome.
    */
 h1 {
-  font-size: 2em;
+  font-size: 1em;
   margin: 0.67em 0; }
 
 /**
@@ -378,7 +378,7 @@ body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
   font-weight: normal;
-  line-height: 1.5;
+  line-height: 1;
   color: #0a0a0a;
   background: #fefefe;
   -webkit-font-smoothing: antialiased;
@@ -452,7 +452,7 @@ td {
 
 p {
   font-size: inherit;
-  line-height: 1.6;
+  line-height: 1.25;
   margin-bottom: 1rem;
   text-rendering: optimizeLegibility; }
 
@@ -483,7 +483,7 @@ h6 {
   text-rendering: optimizeLegibility;
   margin-top: 0;
   margin-bottom: 0.5rem;
-  line-height: 1.4; }
+  line-height: 1.25; }
   h1 small,
   h2 small,
   h3 small,
