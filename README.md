@@ -18,7 +18,7 @@ Here's the background image: https://www.dropbox.com/s/ya0syy6oi3n0b3f/blue_back
 
 - [X] The "Learn More" and "Request More Info" buttons should also link to automatedinsights.com
 
-- [ ] In the bottom section with the "Wordsmith for Real Estate" image
+- [X] In the bottom section with the "Wordsmith for Real Estate" image
 The two call-to-action buttons should link to automatedinsights.com
 
-- [ ] The "Wordsmith for Real Estate" image should be replaced with an embedded YouTube video when you click on it. Choose any YouTube video you want!
+- [X] The "Wordsmith for Real Estate" image should be replaced with an embedded YouTube video when you click on it. Choose any YouTube video you want!
