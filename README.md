@@ -12,11 +12,11 @@
 - [X] In the top section with the blue background:
 Here's the background image: https://www.dropbox.com/s/ya0syy6oi3n0b3f/blue_background%402x.png?dl=0
 
-- [ ] The images at the top of the four boxes in this section should be links. Link to automatedinsights.com for this test.
+- [X] The images at the top of the four boxes in this section should be links. Link to automatedinsights.com for this test.
 
 - [X] You can use any images you want, but you get extra credit for using the ones shown in the mockup
 
-- [ ] The "Learn More" and "Request More Info" buttons should also link to automatedinsights.com
+- [X] The "Learn More" and "Request More Info" buttons should also link to automatedinsights.com
 
 - [ ] In the bottom section with the "Wordsmith for Real Estate" image
 The two call-to-action buttons should link to automatedinsights.com
