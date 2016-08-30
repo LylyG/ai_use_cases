@@ -1,11 +1,11 @@
 #Use Cases Page
 
 ##Instructions:
-- [ ] Use your HTML/CSS/JS skills to build these two sections of our upcoming Use Cases page: https://www.dropbox.com/s/mf9a4gcp4o8gwk4/Automated%20Insights%20web%20developer%20test.png?dl=0
+- [X] Use your HTML/CSS/JS skills to build these two sections of our upcoming Use Cases page: https://www.dropbox.com/s/mf9a4gcp4o8gwk4/Automated%20Insights%20web%20developer%20test.png?dl=0
 
 - [X] We use Foundation for all the layout of our site, so bonus points for using it in your work
 
-- [ ] The page you create should be responsive as well (at least for phone sizes, you can ignore tablets for this test)
+- [X] The page you create should be responsive as well (at least for phone sizes, you can ignore tablets for this test)
 
 - [X] We use the font "Roboto"
 
